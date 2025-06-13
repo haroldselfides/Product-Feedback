@@ -1,0 +1,30 @@
+[
+  {
+    "id": 3,
+    "rating": 5,
+    "comment": "Outstanding Product!",
+    "timestamp": "2025-06-13T06:39:09.875Z",
+    "userAgent": "PostmanRuntime/7.44.0"
+  },
+  {
+    "id": 5,
+    "rating": 5,
+    "comment": "Outstanding!!!",
+    "timestamp": "2025-06-13T06:57:59.909Z",
+    "userAgent": "PostmanRuntime/7.44.0"
+  },
+  {
+    "id": 6,
+    "rating": 5,
+    "comment": "Marvelous!!",
+    "timestamp": "2025-06-13T07:21:16.775Z",
+    "userAgent": "PostmanRuntime/7.44.0"
+  },
+  {
+    "id": 7,
+    "rating": 2,
+    "comment": "Good",
+    "timestamp": "2025-06-13T07:50:12.199Z",
+    "userAgent": "PostmanRuntime/7.44.0"
+  }
+]
